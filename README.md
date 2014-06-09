@@ -22,3 +22,5 @@ team_worklog
 | Pig | [PIG-3943](https://issues.apache.org/jira/browse/PIG-3943) | inconsistency between DefaultAbstractBag readFields and write methods | patch submitted |
 |JDK | [JDK-8044085](https://bugs.openjdk.java.net/browse/JDK-8044085) | SASL needs to support query for credential info from established GSSContext under GSSAPI layer | issue reported to JDK |
 |Spark| [Spark-1937](https://github.com/apache/spark/pull/892) | fix issue with task locality when startup | pull request submitted | 
+|Hadoop| [HADOOP-10670](https://issues.apache.org/jira/browse/HADOOP-10670) | Allow AuthenticationFilter to respect signature secret file even without AuthenticationFilterInitializer | JIRA fired and patch submitted |
+|Hadoop| [HADOOP-10671](https://issues.apache.org/jira/browse/HADOOP-10671) | Single sign on between web console and webhdfs | JIRA fired and patch submitted |
